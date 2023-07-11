@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Aluminary
+- 👀 I’m interested in becoming a software enginer
+- 🌱 I’m currently learning well software enginer
+- 💞️ I’m looking to collaborate on any coding project that better's the world 
